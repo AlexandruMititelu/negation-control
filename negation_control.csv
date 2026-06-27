@@ -1,0 +1,401 @@
+pair_id,template,cue,negated,gold_label,text
+0,simple,great,0,positive,The movie was great.
+0,simple,great,1,negative,The movie was not great.
+1,simple,good,0,positive,The movie was good.
+1,simple,good,1,negative,The movie was not good.
+2,simple,nice,0,positive,The movie was nice.
+2,simple,nice,1,negative,The movie was not nice.
+3,simple,wonderful,0,positive,The movie was wonderful.
+3,simple,wonderful,1,negative,The movie was not wonderful.
+4,simple,excellent,0,positive,The movie was excellent.
+4,simple,excellent,1,negative,The movie was not excellent.
+5,simple,enjoyable,0,positive,The movie was enjoyable.
+5,simple,enjoyable,1,negative,The movie was not enjoyable.
+6,simple,pleasant,0,positive,The movie was pleasant.
+6,simple,pleasant,1,negative,The movie was not pleasant.
+7,simple,impressive,0,positive,The movie was impressive.
+7,simple,impressive,1,negative,The movie was not impressive.
+8,simple,lovely,0,positive,The movie was lovely.
+8,simple,lovely,1,negative,The movie was not lovely.
+9,simple,satisfying,0,positive,The movie was satisfying.
+9,simple,satisfying,1,negative,The movie was not satisfying.
+10,simple,great,0,positive,The book was great.
+10,simple,great,1,negative,The book was not great.
+11,simple,good,0,positive,The book was good.
+11,simple,good,1,negative,The book was not good.
+12,simple,nice,0,positive,The book was nice.
+12,simple,nice,1,negative,The book was not nice.
+13,simple,wonderful,0,positive,The book was wonderful.
+13,simple,wonderful,1,negative,The book was not wonderful.
+14,simple,excellent,0,positive,The book was excellent.
+14,simple,excellent,1,negative,The book was not excellent.
+15,simple,enjoyable,0,positive,The book was enjoyable.
+15,simple,enjoyable,1,negative,The book was not enjoyable.
+16,simple,pleasant,0,positive,The book was pleasant.
+16,simple,pleasant,1,negative,The book was not pleasant.
+17,simple,impressive,0,positive,The book was impressive.
+17,simple,impressive,1,negative,The book was not impressive.
+18,simple,lovely,0,positive,The book was lovely.
+18,simple,lovely,1,negative,The book was not lovely.
+19,simple,satisfying,0,positive,The book was satisfying.
+19,simple,satisfying,1,negative,The book was not satisfying.
+20,simple,great,0,positive,The hotel was great.
+20,simple,great,1,negative,The hotel was not great.
+21,simple,good,0,positive,The hotel was good.
+21,simple,good,1,negative,The hotel was not good.
+22,simple,nice,0,positive,The hotel was nice.
+22,simple,nice,1,negative,The hotel was not nice.
+23,simple,wonderful,0,positive,The hotel was wonderful.
+23,simple,wonderful,1,negative,The hotel was not wonderful.
+24,simple,excellent,0,positive,The hotel was excellent.
+24,simple,excellent,1,negative,The hotel was not excellent.
+25,simple,enjoyable,0,positive,The hotel was enjoyable.
+25,simple,enjoyable,1,negative,The hotel was not enjoyable.
+26,simple,pleasant,0,positive,The hotel was pleasant.
+26,simple,pleasant,1,negative,The hotel was not pleasant.
+27,simple,impressive,0,positive,The hotel was impressive.
+27,simple,impressive,1,negative,The hotel was not impressive.
+28,simple,lovely,0,positive,The hotel was lovely.
+28,simple,lovely,1,negative,The hotel was not lovely.
+29,simple,satisfying,0,positive,The hotel was satisfying.
+29,simple,satisfying,1,negative,The hotel was not satisfying.
+30,simple,great,0,positive,The restaurant was great.
+30,simple,great,1,negative,The restaurant was not great.
+31,simple,good,0,positive,The restaurant was good.
+31,simple,good,1,negative,The restaurant was not good.
+32,simple,nice,0,positive,The restaurant was nice.
+32,simple,nice,1,negative,The restaurant was not nice.
+33,simple,wonderful,0,positive,The restaurant was wonderful.
+33,simple,wonderful,1,negative,The restaurant was not wonderful.
+34,simple,excellent,0,positive,The restaurant was excellent.
+34,simple,excellent,1,negative,The restaurant was not excellent.
+35,simple,enjoyable,0,positive,The restaurant was enjoyable.
+35,simple,enjoyable,1,negative,The restaurant was not enjoyable.
+36,simple,pleasant,0,positive,The restaurant was pleasant.
+36,simple,pleasant,1,negative,The restaurant was not pleasant.
+37,simple,impressive,0,positive,The restaurant was impressive.
+37,simple,impressive,1,negative,The restaurant was not impressive.
+38,simple,lovely,0,positive,The restaurant was lovely.
+38,simple,lovely,1,negative,The restaurant was not lovely.
+39,simple,satisfying,0,positive,The restaurant was satisfying.
+39,simple,satisfying,1,negative,The restaurant was not satisfying.
+40,simple,great,0,positive,The meal was great.
+40,simple,great,1,negative,The meal was not great.
+41,simple,good,0,positive,The meal was good.
+41,simple,good,1,negative,The meal was not good.
+42,simple,nice,0,positive,The meal was nice.
+42,simple,nice,1,negative,The meal was not nice.
+43,simple,wonderful,0,positive,The meal was wonderful.
+43,simple,wonderful,1,negative,The meal was not wonderful.
+44,simple,excellent,0,positive,The meal was excellent.
+44,simple,excellent,1,negative,The meal was not excellent.
+45,simple,enjoyable,0,positive,The meal was enjoyable.
+45,simple,enjoyable,1,negative,The meal was not enjoyable.
+46,simple,pleasant,0,positive,The meal was pleasant.
+46,simple,pleasant,1,negative,The meal was not pleasant.
+47,simple,impressive,0,positive,The meal was impressive.
+47,simple,impressive,1,negative,The meal was not impressive.
+48,simple,lovely,0,positive,The meal was lovely.
+48,simple,lovely,1,negative,The meal was not lovely.
+49,simple,satisfying,0,positive,The meal was satisfying.
+49,simple,satisfying,1,negative,The meal was not satisfying.
+50,simple,great,0,positive,The phone was great.
+50,simple,great,1,negative,The phone was not great.
+51,simple,good,0,positive,The phone was good.
+51,simple,good,1,negative,The phone was not good.
+52,simple,nice,0,positive,The phone was nice.
+52,simple,nice,1,negative,The phone was not nice.
+53,simple,wonderful,0,positive,The phone was wonderful.
+53,simple,wonderful,1,negative,The phone was not wonderful.
+54,simple,excellent,0,positive,The phone was excellent.
+54,simple,excellent,1,negative,The phone was not excellent.
+55,simple,enjoyable,0,positive,The phone was enjoyable.
+55,simple,enjoyable,1,negative,The phone was not enjoyable.
+56,simple,pleasant,0,positive,The phone was pleasant.
+56,simple,pleasant,1,negative,The phone was not pleasant.
+57,simple,impressive,0,positive,The phone was impressive.
+57,simple,impressive,1,negative,The phone was not impressive.
+58,simple,lovely,0,positive,The phone was lovely.
+58,simple,lovely,1,negative,The phone was not lovely.
+59,simple,satisfying,0,positive,The phone was satisfying.
+59,simple,satisfying,1,negative,The phone was not satisfying.
+60,simple,great,0,positive,The laptop was great.
+60,simple,great,1,negative,The laptop was not great.
+61,simple,good,0,positive,The laptop was good.
+61,simple,good,1,negative,The laptop was not good.
+62,simple,nice,0,positive,The laptop was nice.
+62,simple,nice,1,negative,The laptop was not nice.
+63,simple,wonderful,0,positive,The laptop was wonderful.
+63,simple,wonderful,1,negative,The laptop was not wonderful.
+64,simple,excellent,0,positive,The laptop was excellent.
+64,simple,excellent,1,negative,The laptop was not excellent.
+65,simple,enjoyable,0,positive,The laptop was enjoyable.
+65,simple,enjoyable,1,negative,The laptop was not enjoyable.
+66,simple,pleasant,0,positive,The laptop was pleasant.
+66,simple,pleasant,1,negative,The laptop was not pleasant.
+67,simple,impressive,0,positive,The laptop was impressive.
+67,simple,impressive,1,negative,The laptop was not impressive.
+68,simple,lovely,0,positive,The laptop was lovely.
+68,simple,lovely,1,negative,The laptop was not lovely.
+69,simple,satisfying,0,positive,The laptop was satisfying.
+69,simple,satisfying,1,negative,The laptop was not satisfying.
+70,simple,great,0,positive,The game was great.
+70,simple,great,1,negative,The game was not great.
+71,simple,good,0,positive,The game was good.
+71,simple,good,1,negative,The game was not good.
+72,simple,nice,0,positive,The game was nice.
+72,simple,nice,1,negative,The game was not nice.
+73,simple,wonderful,0,positive,The game was wonderful.
+73,simple,wonderful,1,negative,The game was not wonderful.
+74,simple,excellent,0,positive,The game was excellent.
+74,simple,excellent,1,negative,The game was not excellent.
+75,simple,enjoyable,0,positive,The game was enjoyable.
+75,simple,enjoyable,1,negative,The game was not enjoyable.
+76,simple,pleasant,0,positive,The game was pleasant.
+76,simple,pleasant,1,negative,The game was not pleasant.
+77,simple,impressive,0,positive,The game was impressive.
+77,simple,impressive,1,negative,The game was not impressive.
+78,simple,lovely,0,positive,The game was lovely.
+78,simple,lovely,1,negative,The game was not lovely.
+79,simple,satisfying,0,positive,The game was satisfying.
+79,simple,satisfying,1,negative,The game was not satisfying.
+80,simple,great,0,positive,The show was great.
+80,simple,great,1,negative,The show was not great.
+81,simple,good,0,positive,The show was good.
+81,simple,good,1,negative,The show was not good.
+82,simple,nice,0,positive,The show was nice.
+82,simple,nice,1,negative,The show was not nice.
+83,simple,wonderful,0,positive,The show was wonderful.
+83,simple,wonderful,1,negative,The show was not wonderful.
+84,simple,excellent,0,positive,The show was excellent.
+84,simple,excellent,1,negative,The show was not excellent.
+85,simple,enjoyable,0,positive,The show was enjoyable.
+85,simple,enjoyable,1,negative,The show was not enjoyable.
+86,simple,pleasant,0,positive,The show was pleasant.
+86,simple,pleasant,1,negative,The show was not pleasant.
+87,simple,impressive,0,positive,The show was impressive.
+87,simple,impressive,1,negative,The show was not impressive.
+88,simple,lovely,0,positive,The show was lovely.
+88,simple,lovely,1,negative,The show was not lovely.
+89,simple,satisfying,0,positive,The show was satisfying.
+89,simple,satisfying,1,negative,The show was not satisfying.
+90,simple,great,0,positive,The app was great.
+90,simple,great,1,negative,The app was not great.
+91,simple,good,0,positive,The app was good.
+91,simple,good,1,negative,The app was not good.
+92,simple,nice,0,positive,The app was nice.
+92,simple,nice,1,negative,The app was not nice.
+93,simple,wonderful,0,positive,The app was wonderful.
+93,simple,wonderful,1,negative,The app was not wonderful.
+94,simple,excellent,0,positive,The app was excellent.
+94,simple,excellent,1,negative,The app was not excellent.
+95,simple,enjoyable,0,positive,The app was enjoyable.
+95,simple,enjoyable,1,negative,The app was not enjoyable.
+96,simple,pleasant,0,positive,The app was pleasant.
+96,simple,pleasant,1,negative,The app was not pleasant.
+97,simple,impressive,0,positive,The app was impressive.
+97,simple,impressive,1,negative,The app was not impressive.
+98,simple,lovely,0,positive,The app was lovely.
+98,simple,lovely,1,negative,The app was not lovely.
+99,simple,satisfying,0,positive,The app was satisfying.
+99,simple,satisfying,1,negative,The app was not satisfying.
+100,distractor,great,0,positive,"I expected the movie to be great, and it was."
+100,distractor,great,1,negative,"I expected the movie to be great, but it was not."
+101,distractor,good,0,positive,"I expected the movie to be good, and it was."
+101,distractor,good,1,negative,"I expected the movie to be good, but it was not."
+102,distractor,nice,0,positive,"I expected the movie to be nice, and it was."
+102,distractor,nice,1,negative,"I expected the movie to be nice, but it was not."
+103,distractor,wonderful,0,positive,"I expected the movie to be wonderful, and it was."
+103,distractor,wonderful,1,negative,"I expected the movie to be wonderful, but it was not."
+104,distractor,excellent,0,positive,"I expected the movie to be excellent, and it was."
+104,distractor,excellent,1,negative,"I expected the movie to be excellent, but it was not."
+105,distractor,enjoyable,0,positive,"I expected the movie to be enjoyable, and it was."
+105,distractor,enjoyable,1,negative,"I expected the movie to be enjoyable, but it was not."
+106,distractor,pleasant,0,positive,"I expected the movie to be pleasant, and it was."
+106,distractor,pleasant,1,negative,"I expected the movie to be pleasant, but it was not."
+107,distractor,impressive,0,positive,"I expected the movie to be impressive, and it was."
+107,distractor,impressive,1,negative,"I expected the movie to be impressive, but it was not."
+108,distractor,lovely,0,positive,"I expected the movie to be lovely, and it was."
+108,distractor,lovely,1,negative,"I expected the movie to be lovely, but it was not."
+109,distractor,satisfying,0,positive,"I expected the movie to be satisfying, and it was."
+109,distractor,satisfying,1,negative,"I expected the movie to be satisfying, but it was not."
+110,distractor,great,0,positive,"I expected the book to be great, and it was."
+110,distractor,great,1,negative,"I expected the book to be great, but it was not."
+111,distractor,good,0,positive,"I expected the book to be good, and it was."
+111,distractor,good,1,negative,"I expected the book to be good, but it was not."
+112,distractor,nice,0,positive,"I expected the book to be nice, and it was."
+112,distractor,nice,1,negative,"I expected the book to be nice, but it was not."
+113,distractor,wonderful,0,positive,"I expected the book to be wonderful, and it was."
+113,distractor,wonderful,1,negative,"I expected the book to be wonderful, but it was not."
+114,distractor,excellent,0,positive,"I expected the book to be excellent, and it was."
+114,distractor,excellent,1,negative,"I expected the book to be excellent, but it was not."
+115,distractor,enjoyable,0,positive,"I expected the book to be enjoyable, and it was."
+115,distractor,enjoyable,1,negative,"I expected the book to be enjoyable, but it was not."
+116,distractor,pleasant,0,positive,"I expected the book to be pleasant, and it was."
+116,distractor,pleasant,1,negative,"I expected the book to be pleasant, but it was not."
+117,distractor,impressive,0,positive,"I expected the book to be impressive, and it was."
+117,distractor,impressive,1,negative,"I expected the book to be impressive, but it was not."
+118,distractor,lovely,0,positive,"I expected the book to be lovely, and it was."
+118,distractor,lovely,1,negative,"I expected the book to be lovely, but it was not."
+119,distractor,satisfying,0,positive,"I expected the book to be satisfying, and it was."
+119,distractor,satisfying,1,negative,"I expected the book to be satisfying, but it was not."
+120,distractor,great,0,positive,"I expected the hotel to be great, and it was."
+120,distractor,great,1,negative,"I expected the hotel to be great, but it was not."
+121,distractor,good,0,positive,"I expected the hotel to be good, and it was."
+121,distractor,good,1,negative,"I expected the hotel to be good, but it was not."
+122,distractor,nice,0,positive,"I expected the hotel to be nice, and it was."
+122,distractor,nice,1,negative,"I expected the hotel to be nice, but it was not."
+123,distractor,wonderful,0,positive,"I expected the hotel to be wonderful, and it was."
+123,distractor,wonderful,1,negative,"I expected the hotel to be wonderful, but it was not."
+124,distractor,excellent,0,positive,"I expected the hotel to be excellent, and it was."
+124,distractor,excellent,1,negative,"I expected the hotel to be excellent, but it was not."
+125,distractor,enjoyable,0,positive,"I expected the hotel to be enjoyable, and it was."
+125,distractor,enjoyable,1,negative,"I expected the hotel to be enjoyable, but it was not."
+126,distractor,pleasant,0,positive,"I expected the hotel to be pleasant, and it was."
+126,distractor,pleasant,1,negative,"I expected the hotel to be pleasant, but it was not."
+127,distractor,impressive,0,positive,"I expected the hotel to be impressive, and it was."
+127,distractor,impressive,1,negative,"I expected the hotel to be impressive, but it was not."
+128,distractor,lovely,0,positive,"I expected the hotel to be lovely, and it was."
+128,distractor,lovely,1,negative,"I expected the hotel to be lovely, but it was not."
+129,distractor,satisfying,0,positive,"I expected the hotel to be satisfying, and it was."
+129,distractor,satisfying,1,negative,"I expected the hotel to be satisfying, but it was not."
+130,distractor,great,0,positive,"I expected the restaurant to be great, and it was."
+130,distractor,great,1,negative,"I expected the restaurant to be great, but it was not."
+131,distractor,good,0,positive,"I expected the restaurant to be good, and it was."
+131,distractor,good,1,negative,"I expected the restaurant to be good, but it was not."
+132,distractor,nice,0,positive,"I expected the restaurant to be nice, and it was."
+132,distractor,nice,1,negative,"I expected the restaurant to be nice, but it was not."
+133,distractor,wonderful,0,positive,"I expected the restaurant to be wonderful, and it was."
+133,distractor,wonderful,1,negative,"I expected the restaurant to be wonderful, but it was not."
+134,distractor,excellent,0,positive,"I expected the restaurant to be excellent, and it was."
+134,distractor,excellent,1,negative,"I expected the restaurant to be excellent, but it was not."
+135,distractor,enjoyable,0,positive,"I expected the restaurant to be enjoyable, and it was."
+135,distractor,enjoyable,1,negative,"I expected the restaurant to be enjoyable, but it was not."
+136,distractor,pleasant,0,positive,"I expected the restaurant to be pleasant, and it was."
+136,distractor,pleasant,1,negative,"I expected the restaurant to be pleasant, but it was not."
+137,distractor,impressive,0,positive,"I expected the restaurant to be impressive, and it was."
+137,distractor,impressive,1,negative,"I expected the restaurant to be impressive, but it was not."
+138,distractor,lovely,0,positive,"I expected the restaurant to be lovely, and it was."
+138,distractor,lovely,1,negative,"I expected the restaurant to be lovely, but it was not."
+139,distractor,satisfying,0,positive,"I expected the restaurant to be satisfying, and it was."
+139,distractor,satisfying,1,negative,"I expected the restaurant to be satisfying, but it was not."
+140,distractor,great,0,positive,"I expected the meal to be great, and it was."
+140,distractor,great,1,negative,"I expected the meal to be great, but it was not."
+141,distractor,good,0,positive,"I expected the meal to be good, and it was."
+141,distractor,good,1,negative,"I expected the meal to be good, but it was not."
+142,distractor,nice,0,positive,"I expected the meal to be nice, and it was."
+142,distractor,nice,1,negative,"I expected the meal to be nice, but it was not."
+143,distractor,wonderful,0,positive,"I expected the meal to be wonderful, and it was."
+143,distractor,wonderful,1,negative,"I expected the meal to be wonderful, but it was not."
+144,distractor,excellent,0,positive,"I expected the meal to be excellent, and it was."
+144,distractor,excellent,1,negative,"I expected the meal to be excellent, but it was not."
+145,distractor,enjoyable,0,positive,"I expected the meal to be enjoyable, and it was."
+145,distractor,enjoyable,1,negative,"I expected the meal to be enjoyable, but it was not."
+146,distractor,pleasant,0,positive,"I expected the meal to be pleasant, and it was."
+146,distractor,pleasant,1,negative,"I expected the meal to be pleasant, but it was not."
+147,distractor,impressive,0,positive,"I expected the meal to be impressive, and it was."
+147,distractor,impressive,1,negative,"I expected the meal to be impressive, but it was not."
+148,distractor,lovely,0,positive,"I expected the meal to be lovely, and it was."
+148,distractor,lovely,1,negative,"I expected the meal to be lovely, but it was not."
+149,distractor,satisfying,0,positive,"I expected the meal to be satisfying, and it was."
+149,distractor,satisfying,1,negative,"I expected the meal to be satisfying, but it was not."
+150,distractor,great,0,positive,"I expected the phone to be great, and it was."
+150,distractor,great,1,negative,"I expected the phone to be great, but it was not."
+151,distractor,good,0,positive,"I expected the phone to be good, and it was."
+151,distractor,good,1,negative,"I expected the phone to be good, but it was not."
+152,distractor,nice,0,positive,"I expected the phone to be nice, and it was."
+152,distractor,nice,1,negative,"I expected the phone to be nice, but it was not."
+153,distractor,wonderful,0,positive,"I expected the phone to be wonderful, and it was."
+153,distractor,wonderful,1,negative,"I expected the phone to be wonderful, but it was not."
+154,distractor,excellent,0,positive,"I expected the phone to be excellent, and it was."
+154,distractor,excellent,1,negative,"I expected the phone to be excellent, but it was not."
+155,distractor,enjoyable,0,positive,"I expected the phone to be enjoyable, and it was."
+155,distractor,enjoyable,1,negative,"I expected the phone to be enjoyable, but it was not."
+156,distractor,pleasant,0,positive,"I expected the phone to be pleasant, and it was."
+156,distractor,pleasant,1,negative,"I expected the phone to be pleasant, but it was not."
+157,distractor,impressive,0,positive,"I expected the phone to be impressive, and it was."
+157,distractor,impressive,1,negative,"I expected the phone to be impressive, but it was not."
+158,distractor,lovely,0,positive,"I expected the phone to be lovely, and it was."
+158,distractor,lovely,1,negative,"I expected the phone to be lovely, but it was not."
+159,distractor,satisfying,0,positive,"I expected the phone to be satisfying, and it was."
+159,distractor,satisfying,1,negative,"I expected the phone to be satisfying, but it was not."
+160,distractor,great,0,positive,"I expected the laptop to be great, and it was."
+160,distractor,great,1,negative,"I expected the laptop to be great, but it was not."
+161,distractor,good,0,positive,"I expected the laptop to be good, and it was."
+161,distractor,good,1,negative,"I expected the laptop to be good, but it was not."
+162,distractor,nice,0,positive,"I expected the laptop to be nice, and it was."
+162,distractor,nice,1,negative,"I expected the laptop to be nice, but it was not."
+163,distractor,wonderful,0,positive,"I expected the laptop to be wonderful, and it was."
+163,distractor,wonderful,1,negative,"I expected the laptop to be wonderful, but it was not."
+164,distractor,excellent,0,positive,"I expected the laptop to be excellent, and it was."
+164,distractor,excellent,1,negative,"I expected the laptop to be excellent, but it was not."
+165,distractor,enjoyable,0,positive,"I expected the laptop to be enjoyable, and it was."
+165,distractor,enjoyable,1,negative,"I expected the laptop to be enjoyable, but it was not."
+166,distractor,pleasant,0,positive,"I expected the laptop to be pleasant, and it was."
+166,distractor,pleasant,1,negative,"I expected the laptop to be pleasant, but it was not."
+167,distractor,impressive,0,positive,"I expected the laptop to be impressive, and it was."
+167,distractor,impressive,1,negative,"I expected the laptop to be impressive, but it was not."
+168,distractor,lovely,0,positive,"I expected the laptop to be lovely, and it was."
+168,distractor,lovely,1,negative,"I expected the laptop to be lovely, but it was not."
+169,distractor,satisfying,0,positive,"I expected the laptop to be satisfying, and it was."
+169,distractor,satisfying,1,negative,"I expected the laptop to be satisfying, but it was not."
+170,distractor,great,0,positive,"I expected the game to be great, and it was."
+170,distractor,great,1,negative,"I expected the game to be great, but it was not."
+171,distractor,good,0,positive,"I expected the game to be good, and it was."
+171,distractor,good,1,negative,"I expected the game to be good, but it was not."
+172,distractor,nice,0,positive,"I expected the game to be nice, and it was."
+172,distractor,nice,1,negative,"I expected the game to be nice, but it was not."
+173,distractor,wonderful,0,positive,"I expected the game to be wonderful, and it was."
+173,distractor,wonderful,1,negative,"I expected the game to be wonderful, but it was not."
+174,distractor,excellent,0,positive,"I expected the game to be excellent, and it was."
+174,distractor,excellent,1,negative,"I expected the game to be excellent, but it was not."
+175,distractor,enjoyable,0,positive,"I expected the game to be enjoyable, and it was."
+175,distractor,enjoyable,1,negative,"I expected the game to be enjoyable, but it was not."
+176,distractor,pleasant,0,positive,"I expected the game to be pleasant, and it was."
+176,distractor,pleasant,1,negative,"I expected the game to be pleasant, but it was not."
+177,distractor,impressive,0,positive,"I expected the game to be impressive, and it was."
+177,distractor,impressive,1,negative,"I expected the game to be impressive, but it was not."
+178,distractor,lovely,0,positive,"I expected the game to be lovely, and it was."
+178,distractor,lovely,1,negative,"I expected the game to be lovely, but it was not."
+179,distractor,satisfying,0,positive,"I expected the game to be satisfying, and it was."
+179,distractor,satisfying,1,negative,"I expected the game to be satisfying, but it was not."
+180,distractor,great,0,positive,"I expected the show to be great, and it was."
+180,distractor,great,1,negative,"I expected the show to be great, but it was not."
+181,distractor,good,0,positive,"I expected the show to be good, and it was."
+181,distractor,good,1,negative,"I expected the show to be good, but it was not."
+182,distractor,nice,0,positive,"I expected the show to be nice, and it was."
+182,distractor,nice,1,negative,"I expected the show to be nice, but it was not."
+183,distractor,wonderful,0,positive,"I expected the show to be wonderful, and it was."
+183,distractor,wonderful,1,negative,"I expected the show to be wonderful, but it was not."
+184,distractor,excellent,0,positive,"I expected the show to be excellent, and it was."
+184,distractor,excellent,1,negative,"I expected the show to be excellent, but it was not."
+185,distractor,enjoyable,0,positive,"I expected the show to be enjoyable, and it was."
+185,distractor,enjoyable,1,negative,"I expected the show to be enjoyable, but it was not."
+186,distractor,pleasant,0,positive,"I expected the show to be pleasant, and it was."
+186,distractor,pleasant,1,negative,"I expected the show to be pleasant, but it was not."
+187,distractor,impressive,0,positive,"I expected the show to be impressive, and it was."
+187,distractor,impressive,1,negative,"I expected the show to be impressive, but it was not."
+188,distractor,lovely,0,positive,"I expected the show to be lovely, and it was."
+188,distractor,lovely,1,negative,"I expected the show to be lovely, but it was not."
+189,distractor,satisfying,0,positive,"I expected the show to be satisfying, and it was."
+189,distractor,satisfying,1,negative,"I expected the show to be satisfying, but it was not."
+190,distractor,great,0,positive,"I expected the app to be great, and it was."
+190,distractor,great,1,negative,"I expected the app to be great, but it was not."
+191,distractor,good,0,positive,"I expected the app to be good, and it was."
+191,distractor,good,1,negative,"I expected the app to be good, but it was not."
+192,distractor,nice,0,positive,"I expected the app to be nice, and it was."
+192,distractor,nice,1,negative,"I expected the app to be nice, but it was not."
+193,distractor,wonderful,0,positive,"I expected the app to be wonderful, and it was."
+193,distractor,wonderful,1,negative,"I expected the app to be wonderful, but it was not."
+194,distractor,excellent,0,positive,"I expected the app to be excellent, and it was."
+194,distractor,excellent,1,negative,"I expected the app to be excellent, but it was not."
+195,distractor,enjoyable,0,positive,"I expected the app to be enjoyable, and it was."
+195,distractor,enjoyable,1,negative,"I expected the app to be enjoyable, but it was not."
+196,distractor,pleasant,0,positive,"I expected the app to be pleasant, and it was."
+196,distractor,pleasant,1,negative,"I expected the app to be pleasant, but it was not."
+197,distractor,impressive,0,positive,"I expected the app to be impressive, and it was."
+197,distractor,impressive,1,negative,"I expected the app to be impressive, but it was not."
+198,distractor,lovely,0,positive,"I expected the app to be lovely, and it was."
+198,distractor,lovely,1,negative,"I expected the app to be lovely, but it was not."
+199,distractor,satisfying,0,positive,"I expected the app to be satisfying, and it was."
+199,distractor,satisfying,1,negative,"I expected the app to be satisfying, but it was not."
